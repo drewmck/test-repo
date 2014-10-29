@@ -7,7 +7,6 @@ wa waaaaa
 
 1. something
 2. something
-3. 
 
 2. something
 3. something
