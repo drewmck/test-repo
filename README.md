@@ -1,15 +1,8 @@
 test-repo
 =========
 
-wow such test much learning
+Some line of text
+Another line of text
 
-
-wa waaaaa
-
-1. something
-2. something
-
-
-2. something
-3. something
+Yet another line of text
 
